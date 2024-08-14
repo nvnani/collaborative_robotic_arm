@@ -2,7 +2,9 @@
 Author: Naveen Anil <br>
 Email: nvnanil@umd.edu
 
-![](world/gazebo_world.png)
+![Gazebo simulation](world/gazebo_world.png)
+
+![Beta prototype](cobot_arm.jpeg)
 
 ## Installing the dependencies
 ```
